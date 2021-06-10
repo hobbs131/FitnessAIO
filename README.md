@@ -5,6 +5,7 @@ FitnessAIO, or Fitness All-In-One, is an application which is used to track diet
 ## App Info:
 
 * App Link: <https://blueberriesp2.web.app/>
+* Technologies used: Vue.js, Firebase
 
 ### Group Members
 
