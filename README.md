@@ -22,6 +22,7 @@ FitnessAIO, or Fitness All-In-One, is an application which is used to track diet
 * Calendar filtering feature (go back in time to look at meals or upload meals/activities in future dates to plan ahead)
 * Delete food/activity entries
 * Edit food/activity entries
+* User Authentication through Google Firebase
 
 
 
