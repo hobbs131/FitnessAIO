@@ -1,6 +1,6 @@
 # FitnessAIO
 
-CSCI 5117, Spring 2021, [assignment description](https://canvas.umn.edu/courses/217951/pages/project-2)
+
 
 ## App Info:
 
